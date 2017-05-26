@@ -1,6 +1,6 @@
 datalist=list()
 
-setwd("C:/Users/psnitu/Desktop/My folder.Nitu/Ayla Data/Field/Registration")
+setwd("C:/Users/psnitu/Desktop/My folder.Nitu/Data/Field/Registration")
 
 for(k in 01:12){
   for (j in 01:31){
